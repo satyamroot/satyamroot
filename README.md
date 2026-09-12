@@ -20,7 +20,7 @@
 ---
 
 ### 🌐 Connect with Me
-- **LinkedIn:** [Satyam Kumar](https://www.linkedin.com/in/satyam-kumar-82215842a)## Hi there 👋
+- **LinkedIn:** [Satyam Kumar](https://www.linkedin.com/in/satyam-kumar-82215842a)
 
 <!--
 **satyamroot/satyamroot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
