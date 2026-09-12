@@ -17,7 +17,7 @@
 
 | Repository | Description | Tech Stack |
 | :--- | :--- | :--- |
-| 🧩 [**LeetCode-Solutions**](https://github.com/satyamroot/LeetCode-Solutions) | Auto-synced repository containing my solutions to Data Structures & Algorithms problems. | `Python` `C++` |
+| 🧩 [**LeetCode-Solutions**](https://github.com/satyamroot/LeetCode-Solutions) | Auto-synced repository containing my solutions to Data Structures & Algorithms problems. | `Python` `Java` `C++` |
 | 🔄 [**CampusSync**](https://github.com/satyamroot/CampusSync) | A software project designed to streamline campus activities and project workflows. | `Python` `Software Dev` |
 
 ---
