@@ -7,32 +7,28 @@
 ---
 
 ### 🛠️ Languages & Tools
-- **Languages:** Python, SQL, JavaScript, HTML
-- **Focus Areas:** Data Structures & Algorithms, Machine Learning, Web Development
-- **Automation:** Automated LeetCode tracking via LeetHub
+- **Languages:** Python, JavaScript, SQL, HTML
+- **Core Focus:** Data Structures & Algorithms, Artificial Intelligence, Web Development
+- **Automation:** Automated LeetCode tracking via LeetHub v3
 
 ---
 
-### 📊 GitHub & LeetCode Activity
-- 💻 Practicing algorithmic problem-solving daily on **LeetCode**
-- 📦 Syncing all solutions automatically to my dedicated `LeetCode-Solutions` repository
+### 📌 Featured Repositories
+
+| Repository | Description | Tech Stack |
+| :--- | :--- | :--- |
+| 🧩 [**LeetCode-Solutions**](https://github.com/satyamroot/LeetCode-Solutions) | Auto-synced repository containing my solutions to Data Structures & Algorithms problems. | `Python` `C++` |
+| 🔄 [**CampusSync**](https://github.com/satyamroot/CampusSync) | A software project designed to streamline campus activities and project workflows. | `Python` `Software Dev` |
+
+---
+
+### 📊 Algorithmic Practice & Progress
+- 💻 Actively solving problems on **LeetCode** to build strong algorithmic foundations.
+- ⚙️ Automated commit pipelines set up to record daily progress directly to GitHub.
 
 ---
 
 ### 🌐 Connect with Me
 - **LinkedIn:** [Satyam Kumar](https://www.linkedin.com/in/satyam-kumar-82215842a)
-
-<!--
-**satyamroot/satyamroot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **GitHub:** [satyamroot](https://github.com/satyamroot)
+- 
